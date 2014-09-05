@@ -1,0 +1,21 @@
+{
+  "name": "sopro-material",
+  "version": "0.1.0", 
+  "authors": [
+    "SocietyPro"
+  ],
+  "description": "SoPro's styles, scripts and components",
+  "main": "demo/index.html",
+  "license": "MIT",
+  "homepage": "https://github.com/sopro-components/sopro-material",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-titlebar": "https://github.com/sopro-components/material-titlebar.git"
+  }
+}
