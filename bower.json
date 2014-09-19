@@ -1,6 +1,6 @@
 {
   "name": "sopro-material",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "authors": [
     "SocietyPro"
   ],
@@ -16,9 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "material-titlebar": "https://github.com/sopro-components/material-titlebar.git"
-  },
-  "devDependencies": {
+    "material-titlebar": "https://github.com/sopro-components/material-titlebar.git",
     "angular": "1.3.x",
     "angular-animate": "1.3.x"
   }
